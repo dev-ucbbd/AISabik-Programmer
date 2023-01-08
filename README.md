@@ -1,5 +1,5 @@
-AI-Programmer
-=========
+AISabik-Programmer
+==================
 
 Read the full article [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
 
@@ -169,4 +169,4 @@ https://github.com/primaryobjects/ai-programmer
 
 ## Copyright
 
-Copyright (c) 2018 Kory Becker http://primaryobjects.com/kory-becker
+Copyright (c) 2023 Kazi Saabique Ahmed 
