@@ -149,23 +149,10 @@ When using sub-routines, less code is required. So, you can use a smaller genome
 private static int _genomeSize = 50;
 ```
 
-Experiment and have fun!
-
 ## Author
 
-Kory Becker
-http://www.primaryobjects.com/kory-becker
-
-[Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/CMS/Article149)
-
-[Pushing the Limits of Self-Programming Artificial Intelligence](http://www.primaryobjects.com/CMS/Article150)
-
-[Self-Programming Artificial Intelligence Learns to Use Functions](http://www.primaryobjects.com/CMS/Article163)
-
-[BF-Programmer: A Counterintuitive Approach to Autonomously Building Simplistic Programs Using Genetic Algorithms](http://www.primaryobjects.com/bf-programmer-2017.pdf)
-
-View @ GitHub
-https://github.com/primaryobjects/ai-programmer
+Kazi Saabique Ahmed
+https://www.linkedin.com/in/ksaabique
 
 ## Copyright
 
